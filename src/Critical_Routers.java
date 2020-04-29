@@ -94,7 +94,6 @@ class Articulation{
             }
 
         }
-
     }
 
     boolean[] find_articulate(){
